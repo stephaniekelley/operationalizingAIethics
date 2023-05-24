@@ -1,6 +1,6 @@
-# operationalizingAIethics
-IVADO Fin-ML Workshop: Operationalizing AI Ethics in the Modeling Process 
+#operationalizingAIethics
+Operationalizing AI Ethics in the Modelling Process 
 
-May 25th, 2022
-
+May 2023
 Dr. Stephanie Kelley
+https://www.stephaniekelleyresearch.com/
